@@ -1,0 +1,8 @@
+# Archivos de Terraform
+*.tfstate
+*.tfstate.backup
+.terraform/
+.terraform.lock.hcl
+
+# Otros archivos de sistema (opcional pero recomendado)
+.DS_Store
